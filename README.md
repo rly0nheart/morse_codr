@@ -1,3 +1,5 @@
+**Note**: This is one of my first projects i ever wrote. So i have decided to archive this repository, it will be memory of how i started :).
+
 # Morse Codr
 Simple morse code decoder and encoder program written in python. 
 
